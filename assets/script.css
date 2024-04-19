@@ -183,8 +183,8 @@ nav{
     gap: 20px;
 }
 .featured-text-btn>.blue-btn{
-    background: var(--first-color);
-    color: var(--color-white);
+    color: var(--first-color);
+    background-color: var(--color-white);
 }
 .featured-text-btn>.blue-btn:hover{
     background: var(--first-color-hover);
