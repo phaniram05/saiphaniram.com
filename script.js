@@ -23,7 +23,7 @@ function myMenuFunction(){
   }
 /* ----- TYPING EFFECT ----- */
  var typingEffect = new Typed(".typedText",{
-    strings : ["Data Engineer","Senior Software Engineer","Machine Learning Practitioner", "Data Scientist"],
+    strings : ["Data Scientist","Senior Software Engineer","Machine Learning Engineer"],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
